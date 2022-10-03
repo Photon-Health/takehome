@@ -13,7 +13,7 @@ As a pharmacist, I should be able to see all prescriptions and move them through
 ### Requirements
 
 - This front end should make use of the [Chakra UI library](https://chakra-ui.com/) for design and components
-- Both users, Providers and Pharmacists, should be able to complete all actions outlined above in this front end
+- Both users, Providers and Pharmacists, should be able to complete their respective actions outlined above in this front end
 
 ### Backend Guide
 In order to run the backend, you must follow these steps:
