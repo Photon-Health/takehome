@@ -1,5 +1,7 @@
 # Takehome Assignment
+
 ## Goal
+
 Create a React frontend powered by the given Node.js backend that allows users to view, create, and update patients and prescriptions. There are two groups of users that will interact with this tool, as outlined below:
 
 **Provider**
@@ -12,10 +14,12 @@ As a pharmacist, I should be able to see all prescriptions and move them through
 
 ### Requirements
 
-- This front end should make use of the [Chakra UI library](https://chakra-ui.com/) for design and components
+- This front end should make use of [Tailwind](https://tailwindcss.com/) for design and components
+- Your code should be written in Typescript
 - Both users, Providers and Pharmacists, should be able to complete their respective actions outlined above in this front end
 
 ### Backend Guide
+
 In order to run the backend, you must follow these steps:
 
 1. [Ensure npm and node.js are installed](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
